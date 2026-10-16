@@ -1,5 +1,12 @@
 # claude-show
 
+> **Moved.** This plugin now lives in [stevenc81/claude-plugins](https://github.com/stevenc81/claude-plugins/tree/main/plugins/show). This repository is archived. If you installed from here, your install keeps working and gets updates from the new repository. For a new install, run:
+>
+> ```
+> /plugin marketplace add stevenc81/claude-plugins
+> /plugin install show@stevenc81
+> ```
+
 Claude Code can now show you pictures in the chat. Ask it how DNS works, and a diagram appears in the conversation, right where Claude explains it. Ask for a video, and a narrated explainer plays in the chat with sound. There is no browser tab and no HTML page.
 
 ![How a picture reaches the terminal](docs/how-it-works.png)

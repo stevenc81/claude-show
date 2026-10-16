@@ -7,7 +7,11 @@
   "plugins": [
     {
       "name": "show",
-      "source": "./"
+      "source": {
+        "source": "git-subdir",
+        "url": "stevenc81/claude-plugins",
+        "path": "plugins/show"
+      }
     }
   ]
 }
